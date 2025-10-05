@@ -52,12 +52,12 @@ export default function Team() {
           <div className="text-slate-600">Special Forces Medic (18D)</div>
         </div>
         <div className="card grid gap-3 justify-items-center text-center">
-          <div className="h-36 w-36 rounded-full overflow-hidden bg-slate-200">
+          <div className="h-28 w-28 rounded-full overflow-hidden bg-slate-200">
             <Image
               src="/arye.jpg"   // put your photo in /public
               alt="Arye Barnehama"
-              width={200}
-              height={200}
+              width={180}
+              height={180}
             />
           </div>
           <div className="font-semibold">Arye Barnehama</div>
