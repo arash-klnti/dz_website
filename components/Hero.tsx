@@ -43,8 +43,8 @@ export function Hero() {
           <Image
             src="/hero1.svg"
             alt="AI-assisted medic field response"
-            width={350}
-            height={350}
+            width={400}
+            height={400}
             className="object-contain"
             priority
           />
