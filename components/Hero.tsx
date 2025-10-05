@@ -39,7 +39,7 @@ export function Hero() {
           </div>
         </div>
         <div className="card">
-        <div className="w-full max-w-md mx-auto my-auto flex items-center justify-center bg-white rounded-lg p-4">
+        <div className="w-full max-w-md mx-auto my-auto flex items-center justify-center bg-white rounded-lg p-5">
           <Image
             src="/hero1.svg"
             alt="AI-assisted medic field response"
