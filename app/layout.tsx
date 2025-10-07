@@ -4,7 +4,6 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  description: "Perception for emergency medical care.",
   title: "Dropzone Robotics",
   description: "AI-Driven Perception and Robotics for Emergency Medical Response",
   icons: {
